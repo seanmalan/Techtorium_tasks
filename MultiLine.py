@@ -1,0 +1,1 @@
+print("Hello User \n Welcome to the world of Python \n Let's start learning Python \n Enjoy the journey \n Happy Learning \n Thank you")
